@@ -17,7 +17,7 @@ This project is a comprehensive COVID-19 data dashboard built with Streamlit. It
 1. **Clone the repository**:
    ```bash
    git clone  https://github.com/yourusername/covid-dashboard.git
-cd covid-dashboard
+
    cd covid-dashboard
    ```
 
